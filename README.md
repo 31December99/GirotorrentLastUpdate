@@ -26,7 +26,7 @@ It performs the following tasks:
 
 1. Clone this repository.
 2. Install the required dependencies using PIP.
-3. Configure wuth .env file
+3. Configure .env file
 
 ## Configuration
 
