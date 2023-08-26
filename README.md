@@ -42,14 +42,14 @@ This project is licensed under the MIT License
 
 # .env file Example:
 
-- user=<user>
-- passw=<passw>
+- user=user
+- passw=passw
 - download_folder =/home/<user>/GirotorrentLastUpdate/download/
 - interval=10
-- notify=<username telegram user>
-- api_id=<telegram api_id>
-- api_key=<telegram api_key>
-- bot_token=<bot token> 
+- notify=username telegram user
+- api_id=telegram api_id
+- api_key=telegram api_key
+- bot_token=bot token 
 
 
 # user
